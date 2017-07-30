@@ -1,0 +1,26 @@
+html { 
+  background: url(back.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content
+{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+	padding:40px;
+	font-family: cursive;
+	height:500px;
+	width:500px;
+	margin:100px auto;
+
+}
+
+.profile
+{
+	height:150px;
+	width:150px;
+	border-radius:50%;
+}
